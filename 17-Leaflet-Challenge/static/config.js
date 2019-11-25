@@ -1,0 +1,1 @@
+var API_KEY = "pk.eyJ1IjoiY2FwdGFpbmphbWVzbWlzc29uIiwiYSI6ImNrMnpkOW44bjAwOWYzbWswY2JwOW5xa3QifQ.khvEqX7W3rXW439LIaco1w" 
